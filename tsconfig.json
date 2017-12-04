@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "sourceMap": true
+      },
+    "files": [
+      // "005_typescript_config.ts"
+      // "006_variables.ts"
+      // "006_5_string_interpolation.ts"
+      // "007_types.ts"
+      // "008_type_alias.ts"
+      // "009_union_types.ts"
+      // "010_arithmetic_operators.ts"
+      // "011_conditionals.ts"
+      // "012_conditional_opperators.ts"
+      "013_compound_conditionals.ts"
+
+      ]
+  }
