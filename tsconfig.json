@@ -12,7 +12,15 @@
       // "010_arithmetic_operators.ts"
       // "011_conditionals.ts"
       // "012_conditional_opperators.ts"
-      "013_compound_conditionals.ts"
-
-      ]
+      // "013_compound_conditionals.ts"
+      // "014_loops.ts"
+      // "015_functions.ts"
+      // "016_function_args.ts"
+      // "016_5_arrow_functions.ts"
+      // "017_function_decleration_vs_expression.ts"
+      // "018_immediately_invoked_functions"
+      // "018_5_immediately_invoked_args.ts"
+      //  "019_closure_introduction.ts"
+      // "020_classes.ts"
+      "021_inheritance.ts"
   }
