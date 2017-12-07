@@ -1,5 +1,10 @@
 {
     "compilerOptions": {
+      "module" : "amd",
+      // "target" : "es6",
+      "target": "ES5",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata" : true,
       "sourceMap": true
       },
     "files": [
@@ -28,3 +33,11 @@
       // "024_interface_functions.ts"
       // "025_interface_classes.ts" 
       // "026_namespaces.ts"
+      // "027_this.ts"
+      // "028_higher_order_functions_callbacks.ts"
+      // "029_promises.ts" 
+      // "030_decorator_introduction.ts"
+      // "031_class_decorators.ts"
+      "032_method_decorators.ts"
+
+    
